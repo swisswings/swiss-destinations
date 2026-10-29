@@ -1,0 +1,2460 @@
+{
+ "version": "2026-10-29",
+ "schedule": "Winter 2026/27",
+ "count": 187,
+ "destinations": [
+  {
+   "iata": "AEY",
+   "icao": "BIAR",
+   "city": "Akureyri",
+   "country": "IS",
+   "lat": 65.66,
+   "lon": -18.0727,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "W"
+  },
+  {
+   "iata": "ALC",
+   "icao": "LEAL",
+   "city": "Alicante",
+   "country": "ES",
+   "lat": 38.2822,
+   "lon": -0.5582,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "AMS",
+   "icao": "EHAM",
+   "city": "Amsterdam",
+   "country": "NL",
+   "lat": 52.3086,
+   "lon": 4.7639,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "AYT",
+   "icao": "LTAI",
+   "city": "Antalya",
+   "country": "TR",
+   "lat": 36.8987,
+   "lon": 30.8005,
+   "region": "Europa",
+   "airlines": [
+    "SWISS",
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "ATH",
+   "icao": "LGAV",
+   "city": "Athens",
+   "country": "GR",
+   "lat": 37.9364,
+   "lon": 23.9445,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "BCN",
+   "icao": "LEBL",
+   "city": "Barcelona",
+   "country": "ES",
+   "lat": 41.2971,
+   "lon": 2.0785,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "BEG",
+   "icao": "LYBE",
+   "city": "Belgrad",
+   "country": "RS",
+   "lat": 44.8184,
+   "lon": 20.3091,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "BGO",
+   "icao": "ENBR",
+   "city": "Bergen",
+   "country": "NO",
+   "lat": 60.2934,
+   "lon": 5.2181,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "BER",
+   "icao": "EDDB",
+   "city": "Berlin",
+   "country": "DE",
+   "lat": 52.3622,
+   "lon": 13.5007,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "BIQ",
+   "icao": "LFBZ",
+   "city": "Biarritz/Anglet/Bayonne",
+   "country": "FR",
+   "lat": 43.4684,
+   "lon": -1.5233,
+   "region": "Europa",
+   "airlines": [
+    "SWISS",
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "BLL",
+   "icao": "EKBI",
+   "city": "Billund",
+   "country": "DK",
+   "lat": 55.7403,
+   "lon": 9.1518,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "BHX",
+   "icao": "EGBB",
+   "city": "Birmingham",
+   "country": "GB",
+   "lat": 52.4539,
+   "lon": -1.748,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "BJV",
+   "icao": "LTFE",
+   "city": "Bodrum",
+   "country": "TR",
+   "lat": 37.2506,
+   "lon": 27.6643,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "BLQ",
+   "icao": "LIPE",
+   "city": "Bologna",
+   "country": "IT",
+   "lat": 44.5354,
+   "lon": 11.2887,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "BOD",
+   "icao": "LFBD",
+   "city": "Bordeaux/Merignac",
+   "country": "FR",
+   "lat": 44.8283,
+   "lon": -0.7156,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "BRE",
+   "icao": "EDDW",
+   "city": "Bremen",
+   "country": "DE",
+   "lat": 53.0475,
+   "lon": 8.7867,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "BDS",
+   "icao": "LIBR",
+   "city": "Brindisi",
+   "country": "IT",
+   "lat": 40.6576,
+   "lon": 17.947,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "BRS",
+   "icao": "EGGD",
+   "city": "Bristol",
+   "country": "GB",
+   "lat": 51.3827,
+   "lon": -2.7191,
+   "region": "Europa",
+   "airlines": [
+    "SWISS",
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "BRU",
+   "icao": "EBBR",
+   "city": "Brussels",
+   "country": "BE",
+   "lat": 50.5405,
+   "lon": 4.2904,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "OTP",
+   "icao": "LROP",
+   "city": "Bucharest",
+   "country": "RO",
+   "lat": 44.5722,
+   "lon": 26.1022,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "BUD",
+   "icao": "LHBP",
+   "city": "Budapest",
+   "country": "HU",
+   "lat": 47.4369,
+   "lon": 19.2556,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "CAG",
+   "icao": "LIEE",
+   "city": "Cagliari",
+   "country": "IT",
+   "lat": 39.2515,
+   "lon": 9.0543,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "CTA",
+   "icao": "LICC",
+   "city": "Catania",
+   "country": "IT",
+   "lat": 37.4668,
+   "lon": 15.0664,
+   "region": "Europa",
+   "airlines": [
+    "SWISS",
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "CLJ",
+   "icao": "LRCL",
+   "city": "Cluj-Napoca",
+   "country": "RO",
+   "lat": 46.7852,
+   "lon": 23.6862,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "CPH",
+   "icao": "EKCH",
+   "city": "Copenhagen",
+   "country": "DK",
+   "lat": 55.6179,
+   "lon": 12.656,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "ORK",
+   "icao": "EICK",
+   "city": "Cork",
+   "country": "IE",
+   "lat": 51.8413,
+   "lon": -8.4911,
+   "region": "Europa",
+   "airlines": [
+    "SWISS",
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "DLM",
+   "icao": "LTBS",
+   "city": "Dalaman",
+   "country": "TR",
+   "lat": 36.7131,
+   "lon": 28.7925,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "DRS",
+   "icao": "EDDC",
+   "city": "Dresden",
+   "country": "DE",
+   "lat": 51.1328,
+   "lon": 13.7672,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "DUB",
+   "icao": "EIDW",
+   "city": "Dublin",
+   "country": "IE",
+   "lat": 53.4213,
+   "lon": -6.2701,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "DBV",
+   "icao": "LDDU",
+   "city": "Dubrovnik",
+   "country": "HR",
+   "lat": 42.5614,
+   "lon": 18.2682,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "DUS",
+   "icao": "EDDL",
+   "city": "Dusseldorf",
+   "country": "DE",
+   "lat": 51.2895,
+   "lon": 6.7668,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "EDI",
+   "icao": "EGPH",
+   "city": "Edinburgh",
+   "country": "GB",
+   "lat": 55.95,
+   "lon": -3.3725,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "FAO",
+   "icao": "LPFR",
+   "city": "Faro",
+   "country": "PT",
+   "lat": 37.0144,
+   "lon": -7.9659,
+   "region": "Europa",
+   "airlines": [
+    "SWISS",
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "FSC",
+   "icao": "LFKF",
+   "city": "Figari Sud-Corse",
+   "country": "FR",
+   "lat": 41.5006,
+   "lon": 9.0978,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "FLR",
+   "icao": "LIRQ",
+   "city": "Firenze",
+   "country": "IT",
+   "lat": 43.81,
+   "lon": 11.2051,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "FUE",
+   "icao": "GCFV",
+   "city": "Fuerteventura Island",
+   "country": "ES",
+   "lat": 28.4527,
+   "lon": -13.8638,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "FNC",
+   "icao": "LPMA",
+   "city": "Funchal",
+   "country": "PT",
+   "lat": 32.6979,
+   "lon": -16.7745,
+   "region": "Europa",
+   "airlines": [
+    "SWISS",
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "GDN",
+   "icao": "EPGD",
+   "city": "Gdańsk",
+   "country": "PL",
+   "lat": 54.3776,
+   "lon": 18.4662,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "GVA",
+   "icao": "LSGG",
+   "city": "Geneva",
+   "country": "CH",
+   "lat": 46.2381,
+   "lon": 6.109,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "GOT",
+   "icao": "ESGG",
+   "city": "Gothenburg",
+   "country": "SE",
+   "lat": 57.6628,
+   "lon": 12.2798,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "LPA",
+   "icao": "GCLP",
+   "city": "Gran Canaria Island",
+   "country": "ES",
+   "lat": 27.9319,
+   "lon": -15.3866,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "GRZ",
+   "icao": "LOWG",
+   "city": "Graz",
+   "country": "AT",
+   "lat": 46.9911,
+   "lon": 15.4396,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "HAJ",
+   "icao": "EDDV",
+   "city": "Hannover",
+   "country": "DE",
+   "lat": 52.4611,
+   "lon": 9.6851,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "HER",
+   "icao": "LGIR",
+   "city": "Heraklion",
+   "country": "GR",
+   "lat": 35.3397,
+   "lon": 25.1803,
+   "region": "Europa",
+   "airlines": [
+    "SWISS",
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "HDF",
+   "icao": "EDAH",
+   "city": "Heringsdorf",
+   "country": "DE",
+   "lat": 53.8787,
+   "lon": 14.1523,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "IBZ",
+   "icao": "LEIB",
+   "city": "Ibiza",
+   "country": "ES",
+   "lat": 38.8729,
+   "lon": 1.3731,
+   "region": "Europa",
+   "airlines": [
+    "SWISS",
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "IVL",
+   "icao": "EFIV",
+   "city": "Ivalo",
+   "country": "FI",
+   "lat": 68.6073,
+   "lon": 27.4053,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "W"
+  },
+  {
+   "iata": "XRY",
+   "icao": "LEJR",
+   "city": "Jerez de la Forntera",
+   "country": "ES",
+   "lat": 36.7446,
+   "lon": -6.0601,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "KLX",
+   "icao": "LGKL",
+   "city": "Kalamata",
+   "country": "GR",
+   "lat": 37.0683,
+   "lon": 22.0255,
+   "region": "Europa",
+   "airlines": [
+    "SWISS",
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "CFU",
+   "icao": "LGKR",
+   "city": "Kerkyra Island",
+   "country": "GR",
+   "lat": 39.6019,
+   "lon": 19.9117,
+   "region": "Europa",
+   "airlines": [
+    "SWISS",
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "KTT",
+   "icao": "EFKT",
+   "city": "Kittila",
+   "country": "FI",
+   "lat": 67.701,
+   "lon": 24.8468,
+   "region": "Europa",
+   "airlines": [
+    "SWISS",
+    "Edelweiss"
+   ],
+   "season": "W"
+  },
+  {
+   "iata": "KGS",
+   "icao": "LGKO",
+   "city": "Kos Island",
+   "country": "GR",
+   "lat": 36.7933,
+   "lon": 27.0917,
+   "region": "Europa",
+   "airlines": [
+    "SWISS",
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "KSC",
+   "icao": "LZKZ",
+   "city": "Kosice",
+   "country": "SK",
+   "lat": 48.6631,
+   "lon": 21.2411,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "KRK",
+   "icao": "EPKK",
+   "city": "Kraków",
+   "country": "PL",
+   "lat": 50.0777,
+   "lon": 19.7848,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "KAO",
+   "icao": "EFKS",
+   "city": "Kuusamo",
+   "country": "FI",
+   "lat": 65.9876,
+   "lon": 29.2394,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "W"
+  },
+  {
+   "iata": "SUF",
+   "icao": "LICA",
+   "city": "Lamezia Terme",
+   "country": "IT",
+   "lat": 38.9054,
+   "lon": 16.2423,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "ACE",
+   "icao": "GCRR",
+   "city": "Lanzarote Island",
+   "country": "ES",
+   "lat": 28.9455,
+   "lon": -13.6052,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "LCA",
+   "icao": "LCLK",
+   "city": "Larnaca",
+   "country": "CY",
+   "lat": 34.8751,
+   "lon": 33.6249,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "PRN",
+   "icao": "BKPR",
+   "city": "Lipjan",
+   "country": "XK",
+   "lat": 42.5728,
+   "lon": 21.0358,
+   "region": "Europa",
+   "airlines": [
+    "SWISS",
+    "Edelweiss"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "LIS",
+   "icao": "LPPT",
+   "city": "Lisbon",
+   "country": "PT",
+   "lat": 38.7813,
+   "lon": -9.1359,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "LJU",
+   "icao": "LJLJ",
+   "city": "Ljubljana",
+   "country": "SI",
+   "lat": 46.2237,
+   "lon": 14.4576,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "LGW",
+   "icao": "EGKK",
+   "city": "London",
+   "country": "GB",
+   "lat": 51.1481,
+   "lon": -0.1903,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "LHR",
+   "icao": "EGLL",
+   "city": "London",
+   "country": "GB",
+   "lat": 51.4706,
+   "lon": -0.4619,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "LCY",
+   "icao": "EGLC",
+   "city": "London",
+   "country": "GB",
+   "lat": 51.5053,
+   "lon": 0.0553,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "LLA",
+   "icao": "ESPA",
+   "city": "Lulea",
+   "country": "SE",
+   "lat": 65.5438,
+   "lon": 22.122,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "W"
+  },
+  {
+   "iata": "MLA",
+   "icao": "LMML",
+   "city": "Luqa",
+   "country": "MT",
+   "lat": 35.8575,
+   "lon": 14.4775,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "LUX",
+   "icao": "ELLX",
+   "city": "Luxembourg",
+   "country": "LU",
+   "lat": 49.3724,
+   "lon": 6.1216,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "MAD",
+   "icao": "LEMD",
+   "city": "Madrid",
+   "country": "ES",
+   "lat": 40.4936,
+   "lon": -3.5668,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "AGP",
+   "icao": "LEMG",
+   "city": "Malaga",
+   "country": "ES",
+   "lat": 36.6749,
+   "lon": -4.4991,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "MAN",
+   "icao": "EGCC",
+   "city": "Manchester",
+   "country": "GB",
+   "lat": 53.3537,
+   "lon": -2.275,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "MRS",
+   "icao": "LFML",
+   "city": "Marseille",
+   "country": "FR",
+   "lat": 43.4393,
+   "lon": 5.2214,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "MAH",
+   "icao": "LEMH",
+   "city": "Menorca Island",
+   "country": "ES",
+   "lat": 39.8626,
+   "lon": 4.2187,
+   "region": "Europa",
+   "airlines": [
+    "SWISS",
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "MXP",
+   "icao": "LIMC",
+   "city": "Milan",
+   "country": "IT",
+   "lat": 45.6306,
+   "lon": 8.7281,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "MUC",
+   "icao": "EDDM",
+   "city": "Munich",
+   "country": "DE",
+   "lat": 48.3538,
+   "lon": 11.7861,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "JMK",
+   "icao": "LGMK",
+   "city": "Mykonos Island",
+   "country": "GR",
+   "lat": 37.4351,
+   "lon": 25.3481,
+   "region": "Europa",
+   "airlines": [
+    "SWISS",
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "NTE",
+   "icao": "LFRS",
+   "city": "Nantes",
+   "country": "FR",
+   "lat": 47.1532,
+   "lon": -1.6107,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "NAP",
+   "icao": "LIRN",
+   "city": "Napoli",
+   "country": "IT",
+   "lat": 40.886,
+   "lon": 14.2908,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "NQY",
+   "icao": "EGHQ",
+   "city": "Newquay",
+   "country": "GB",
+   "lat": 50.4406,
+   "lon": -4.9954,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "NCE",
+   "icao": "LFMN",
+   "city": "Nice",
+   "country": "FR",
+   "lat": 43.6584,
+   "lon": 7.2159,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "INI",
+   "icao": "LYNI",
+   "city": "Nis",
+   "country": "RS",
+   "lat": 43.3373,
+   "lon": 21.8537,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "OHD",
+   "icao": "LWOH",
+   "city": "Ohrid",
+   "country": "MK",
+   "lat": 41.18,
+   "lon": 20.7423,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "OLB",
+   "icao": "LIEO",
+   "city": "Olbia",
+   "country": "IT",
+   "lat": 40.8987,
+   "lon": 9.5176,
+   "region": "Europa",
+   "airlines": [
+    "SWISS",
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "OSL",
+   "icao": "ENGM",
+   "city": "Oslo",
+   "country": "NO",
+   "lat": 60.1939,
+   "lon": 11.1004,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "PMO",
+   "icao": "LICJ",
+   "city": "Palermo",
+   "country": "IT",
+   "lat": 38.176,
+   "lon": 13.091,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "PMI",
+   "icao": "LEPA",
+   "city": "Palma De Mallorca",
+   "country": "ES",
+   "lat": 39.5517,
+   "lon": 2.7388,
+   "region": "Europa",
+   "airlines": [
+    "SWISS",
+    "Edelweiss"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "CDG",
+   "icao": "LFPG",
+   "city": "Paris",
+   "country": "FR",
+   "lat": 49.0128,
+   "lon": 2.55,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "GPA",
+   "icao": "LGRX",
+   "city": "Patras",
+   "country": "GR",
+   "lat": 38.1511,
+   "lon": 21.4256,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "PSA",
+   "icao": "LIRP",
+   "city": "Pisa",
+   "country": "IT",
+   "lat": 43.6839,
+   "lon": 10.3927,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "PDL",
+   "icao": "LPPD",
+   "city": "Ponta Delgada",
+   "country": "PT",
+   "lat": 37.7412,
+   "lon": -25.6979,
+   "region": "Europa",
+   "airlines": [
+    "SWISS",
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "OPO",
+   "icao": "LPPR",
+   "city": "Porto",
+   "country": "PT",
+   "lat": 41.2481,
+   "lon": -8.6814,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "POZ",
+   "icao": "EPPO",
+   "city": "Poznań",
+   "country": "PL",
+   "lat": 52.421,
+   "lon": 16.8263,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "PRG",
+   "icao": "LKPR",
+   "city": "Prague",
+   "country": "CZ",
+   "lat": 50.1008,
+   "lon": 14.26,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "PUY",
+   "icao": "LDPL",
+   "city": "Pula",
+   "country": "HR",
+   "lat": 44.8935,
+   "lon": 13.9222,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "KEF",
+   "icao": "BIKF",
+   "city": "Reykjavik",
+   "country": "IS",
+   "lat": 63.985,
+   "lon": -22.6056,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "RHO",
+   "icao": "LGRP",
+   "city": "Rodes Island",
+   "country": "GR",
+   "lat": 36.4054,
+   "lon": 28.0862,
+   "region": "Europa",
+   "airlines": [
+    "SWISS",
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "FCO",
+   "icao": "LIRF",
+   "city": "Rome",
+   "country": "IT",
+   "lat": 41.8045,
+   "lon": 12.2508,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "RVN",
+   "icao": "EFRO",
+   "city": "Rovaniemi",
+   "country": "FI",
+   "lat": 66.5648,
+   "lon": 25.8304,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "W"
+  },
+  {
+   "iata": "SMI",
+   "icao": "LGSM",
+   "city": "Samos Island",
+   "country": "GR",
+   "lat": 37.69,
+   "lon": 26.9117,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "SCQ",
+   "icao": "LEST",
+   "city": "Santiago de Compostela",
+   "country": "ES",
+   "lat": 42.8963,
+   "lon": -8.4151,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "JTR",
+   "icao": "LGSR",
+   "city": "Santorini Island",
+   "country": "GR",
+   "lat": 36.3992,
+   "lon": 25.4793,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "SJJ",
+   "icao": "LQSA",
+   "city": "Sarajevo",
+   "country": "BA",
+   "lat": 43.8246,
+   "lon": 18.3315,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "SVQ",
+   "icao": "LEZL",
+   "city": "Sevilla",
+   "country": "ES",
+   "lat": 37.418,
+   "lon": -5.8931,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "SKP",
+   "icao": "LWSK",
+   "city": "Skopje",
+   "country": "MK",
+   "lat": 41.9616,
+   "lon": 21.6214,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "SOF",
+   "icao": "LBSF",
+   "city": "Sofia",
+   "country": "BG",
+   "lat": 42.6967,
+   "lon": 23.4114,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "CHQ",
+   "icao": "LGSA",
+   "city": "Souda",
+   "country": "GR",
+   "lat": 35.5317,
+   "lon": 24.1497,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "SPU",
+   "icao": "LDSP",
+   "city": "Split",
+   "country": "HR",
+   "lat": 43.5389,
+   "lon": 16.298,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "SPC",
+   "icao": "GCLA",
+   "city": "Sta Cruz de la Palma",
+   "country": "ES",
+   "lat": 28.6265,
+   "lon": -17.7556,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "W"
+  },
+  {
+   "iata": "ARN",
+   "icao": "ESSA",
+   "city": "Stockholm",
+   "country": "SE",
+   "lat": 59.6519,
+   "lon": 17.9186,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "STR",
+   "icao": "EDDS",
+   "city": "Stuttgart",
+   "country": "DE",
+   "lat": 48.6899,
+   "lon": 9.222,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "TLL",
+   "icao": "EETN",
+   "city": "Tallinn",
+   "country": "EE",
+   "lat": 59.4133,
+   "lon": 24.8328,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "TBS",
+   "icao": "UGTB",
+   "city": "Tbilisi",
+   "country": "GE",
+   "lat": 41.6692,
+   "lon": 44.9547,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "TFS",
+   "icao": "GCTS",
+   "city": "Tenerife Island",
+   "country": "ES",
+   "lat": 28.0445,
+   "lon": -16.5725,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "SKG",
+   "icao": "LGTS",
+   "city": "Thessaloniki",
+   "country": "GR",
+   "lat": 40.5197,
+   "lon": 22.9709,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "TIA",
+   "icao": "LATI",
+   "city": "Tirana",
+   "country": "AL",
+   "lat": 41.4147,
+   "lon": 19.7206,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "TOS",
+   "icao": "ENTC",
+   "city": "Tromsø",
+   "country": "NO",
+   "lat": 69.6833,
+   "lon": 18.9189,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "W"
+  },
+  {
+   "iata": "VLC",
+   "icao": "LEVC",
+   "city": "Valencia",
+   "country": "ES",
+   "lat": 39.4893,
+   "lon": -0.4816,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "VAR",
+   "icao": "LBWN",
+   "city": "Varna",
+   "country": "BG",
+   "lat": 43.2321,
+   "lon": 27.8251,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "VCE",
+   "icao": "LIPZ",
+   "city": "Venezia",
+   "country": "IT",
+   "lat": 45.5053,
+   "lon": 12.3519,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "VIE",
+   "icao": "LOWW",
+   "city": "Vienna",
+   "country": "AT",
+   "lat": 48.1103,
+   "lon": 16.5697,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "VNO",
+   "icao": "EYVI",
+   "city": "Vilnius",
+   "country": "LT",
+   "lat": 54.6341,
+   "lon": 25.2858,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "WAW",
+   "icao": "EPWA",
+   "city": "Warsaw",
+   "country": "PL",
+   "lat": 52.1657,
+   "lon": 20.9671,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "GWT",
+   "icao": "EDXW",
+   "city": "Westerland",
+   "country": "DE",
+   "lat": 54.9132,
+   "lon": 8.3405,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "WRO",
+   "icao": "EPWR",
+   "city": "Wrocław",
+   "country": "PL",
+   "lat": 51.1027,
+   "lon": 16.8858,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "ZAD",
+   "icao": "LDZD",
+   "city": "Zadar",
+   "country": "HR",
+   "lat": 44.1083,
+   "lon": 15.3467,
+   "region": "Europa",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "ZTH",
+   "icao": "LGZA",
+   "city": "Zakynthos Island",
+   "country": "GR",
+   "lat": 37.7509,
+   "lon": 20.8843,
+   "region": "Europa",
+   "airlines": [
+    "SWISS",
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "ZRH",
+   "icao": "LSZH",
+   "city": "Zurich",
+   "country": "CH",
+   "lat": 47.4647,
+   "lon": 8.5492,
+   "region": "Europa",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "AGA",
+   "icao": "GMAD",
+   "city": "Agadir",
+   "country": "MA",
+   "lat": 30.325,
+   "lon": -9.4131,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "W"
+  },
+  {
+   "iata": "AMM",
+   "icao": "OJAI",
+   "city": "Amman",
+   "country": "JO",
+   "lat": 31.7226,
+   "lon": 35.9932,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "AQJ",
+   "icao": "OJAQ",
+   "city": "Aqaba",
+   "country": "JO",
+   "lat": 29.6116,
+   "lon": 35.0181,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "JRO",
+   "icao": "HTKJ",
+   "city": "Arusha",
+   "country": "TZ",
+   "lat": -3.4294,
+   "lon": 37.0745,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "BKK",
+   "icao": "VTBS",
+   "city": "Bangkok",
+   "country": "TH",
+   "lat": 13.6811,
+   "lon": 100.747,
+   "region": "Interkontinental",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "BEY",
+   "icao": "OLBA",
+   "city": "Beirut",
+   "country": "LB",
+   "lat": 33.8209,
+   "lon": 35.4884,
+   "region": "Interkontinental",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "BOG",
+   "icao": "SKBO",
+   "city": "Bogota",
+   "country": "CO",
+   "lat": 4.7016,
+   "lon": -74.1469,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "W"
+  },
+  {
+   "iata": "BOS",
+   "icao": "KBOS",
+   "city": "Boston",
+   "country": "US",
+   "lat": 42.3629,
+   "lon": -71.0064,
+   "region": "Interkontinental",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "CAI",
+   "icao": "HECA",
+   "city": "Cairo",
+   "country": "EG",
+   "lat": 30.1219,
+   "lon": 31.4056,
+   "region": "Interkontinental",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "YYC",
+   "icao": "CYYC",
+   "city": "Calgary",
+   "country": "CA",
+   "lat": 51.1139,
+   "lon": -114.02,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "CUN",
+   "icao": "MMUN",
+   "city": "Cancun",
+   "country": "MX",
+   "lat": 21.0365,
+   "lon": -86.8771,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "CPT",
+   "icao": "FACT",
+   "city": "Cape Town",
+   "country": "ZA",
+   "lat": -33.9648,
+   "lon": 18.6017,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "W"
+  },
+  {
+   "iata": "CTG",
+   "icao": "SKCG",
+   "city": "Cartagena",
+   "country": "CO",
+   "lat": 10.4424,
+   "lon": -75.513,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "W"
+  },
+  {
+   "iata": "ORD",
+   "icao": "KORD",
+   "city": "Chicago",
+   "country": "US",
+   "lat": 41.9769,
+   "lon": -87.9082,
+   "region": "Interkontinental",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "CMB",
+   "icao": "VCBI",
+   "city": "Colombo",
+   "country": "LK",
+   "lat": 7.1808,
+   "lon": 79.8841,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "W"
+  },
+  {
+   "iata": "DJE",
+   "icao": "DTTJ",
+   "city": "Djerba",
+   "country": "TN",
+   "lat": 33.875,
+   "lon": 10.7755,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "YUL",
+   "icao": "CYUL",
+   "city": "Dorval",
+   "country": "CA",
+   "lat": 45.4706,
+   "lon": -73.7408,
+   "region": "Interkontinental",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "DXB",
+   "icao": "OMDB",
+   "city": "Dubai",
+   "country": "AE",
+   "lat": 25.2528,
+   "lon": 55.3644,
+   "region": "Interkontinental",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "SID",
+   "icao": "GVAC",
+   "city": "Espargos",
+   "country": "CV",
+   "lat": 16.7414,
+   "lon": -22.9494,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "W"
+  },
+  {
+   "iata": "SPX",
+   "icao": "HESX",
+   "city": "Giza",
+   "country": "EG",
+   "lat": 30.1147,
+   "lon": 30.8933,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "YHZ",
+   "icao": "CYHZ",
+   "city": "Halifax",
+   "country": "CA",
+   "lat": 44.8808,
+   "lon": -63.5086,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "HKG",
+   "icao": "VHHH",
+   "city": "Hong Kong",
+   "country": "HK",
+   "lat": 22.3089,
+   "lon": 113.915,
+   "region": "Interkontinental",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "HRG",
+   "icao": "HEGN",
+   "city": "Hurghada",
+   "country": "EG",
+   "lat": 27.1783,
+   "lon": 33.7994,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "JNB",
+   "icao": "FAOR",
+   "city": "Johannesburg",
+   "country": "ZA",
+   "lat": -26.1337,
+   "lon": 28.2423,
+   "region": "Interkontinental",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "ZNZ",
+   "icao": "HTZA",
+   "city": "Kiembi Samaki",
+   "country": "TZ",
+   "lat": -6.222,
+   "lon": 39.2249,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "LAS",
+   "icao": "KLAS",
+   "city": "Las Vegas",
+   "country": "US",
+   "lat": 36.0803,
+   "lon": -115.1524,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "LIR",
+   "icao": "MRLB",
+   "city": "Liberia",
+   "country": "CR",
+   "lat": 10.5933,
+   "lon": -85.5444,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "W"
+  },
+  {
+   "iata": "LAX",
+   "icao": "KLAX",
+   "city": "Los Angeles",
+   "country": "US",
+   "lat": 33.9425,
+   "lon": -118.408,
+   "region": "Interkontinental",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "LXR",
+   "icao": "HELX",
+   "city": "Luxor",
+   "country": "EG",
+   "lat": 25.671,
+   "lon": 32.7066,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "W"
+  },
+  {
+   "iata": "SEZ",
+   "icao": "FSIA",
+   "city": "Mahe Island",
+   "country": "SC",
+   "lat": -4.6743,
+   "lon": 55.5218,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "W"
+  },
+  {
+   "iata": "MLE",
+   "icao": "VRMM",
+   "city": "Malé",
+   "country": "MV",
+   "lat": 4.1917,
+   "lon": 73.5292,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "W"
+  },
+  {
+   "iata": "RAK",
+   "icao": "GMMX",
+   "city": "Marrakech",
+   "country": "MA",
+   "lat": 31.6069,
+   "lon": -8.0363,
+   "region": "Interkontinental",
+   "airlines": [
+    "SWISS",
+    "Edelweiss"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "RMF",
+   "icao": "HEMA",
+   "city": "Marsa Alam",
+   "country": "EG",
+   "lat": 25.5571,
+   "lon": 34.5837,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "MIA",
+   "icao": "KMIA",
+   "city": "Miami",
+   "country": "US",
+   "lat": 25.7954,
+   "lon": -80.2901,
+   "region": "Interkontinental",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "YYZ",
+   "icao": "CYYZ",
+   "city": "Mississauga",
+   "country": "CA",
+   "lat": 43.6772,
+   "lon": -79.6306,
+   "region": "Interkontinental",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "MBJ",
+   "icao": "MKJS",
+   "city": "Montego Bay",
+   "country": "JM",
+   "lat": 18.5037,
+   "lon": -77.9134,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "W"
+  },
+  {
+   "iata": "BOM",
+   "icao": "VABB",
+   "city": "Mumbai",
+   "country": "IN",
+   "lat": 19.0887,
+   "lon": 72.8679,
+   "region": "Interkontinental",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "DEL",
+   "icao": "VIDP",
+   "city": "New Delhi",
+   "country": "IN",
+   "lat": 28.5665,
+   "lon": 77.1031,
+   "region": "Interkontinental",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "JFK",
+   "icao": "KJFK",
+   "city": "New York",
+   "country": "US",
+   "lat": 40.6399,
+   "lon": -73.7787,
+   "region": "Interkontinental",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "EWR",
+   "icao": "KEWR",
+   "city": "Newark",
+   "country": "US",
+   "lat": 40.6925,
+   "lon": -74.1687,
+   "region": "Interkontinental",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "HKT",
+   "icao": "VTSP",
+   "city": "Phuket",
+   "country": "TH",
+   "lat": 8.1132,
+   "lon": 98.3169,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "W"
+  },
+  {
+   "iata": "MRU",
+   "icao": "FIMP",
+   "city": "Port Louis",
+   "country": "MU",
+   "lat": -20.4302,
+   "lon": 57.6836,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "RAI",
+   "icao": "GVNP",
+   "city": "Praia",
+   "country": "CV",
+   "lat": 14.9245,
+   "lon": -23.4935,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "W"
+  },
+  {
+   "iata": "POP",
+   "icao": "MDPP",
+   "city": "Puerto Plata",
+   "country": "DO",
+   "lat": 19.7579,
+   "lon": -70.57,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "W"
+  },
+  {
+   "iata": "PUJ",
+   "icao": "MDPC",
+   "city": "Punta Cana",
+   "country": "DO",
+   "lat": 18.5674,
+   "lon": -68.3634,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "BVC",
+   "icao": "GVBA",
+   "city": "Rabil",
+   "country": "CV",
+   "lat": 16.1365,
+   "lon": -22.8889,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "W"
+  },
+  {
+   "iata": "YVR",
+   "icao": "CYVR",
+   "city": "Richmond",
+   "country": "CA",
+   "lat": 49.1939,
+   "lon": -123.184,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "SFO",
+   "icao": "KSFO",
+   "city": "San Francisco",
+   "country": "US",
+   "lat": 37.6188,
+   "lon": -122.3754,
+   "region": "Interkontinental",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "SJO",
+   "icao": "MROC",
+   "city": "San Jose",
+   "country": "CR",
+   "lat": 9.9939,
+   "lon": -84.2088,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "W"
+  },
+  {
+   "iata": "GRU",
+   "icao": "SBGR",
+   "city": "Sao Paulo",
+   "country": "BR",
+   "lat": -23.4356,
+   "lon": -46.4731,
+   "region": "Interkontinental",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "VXE",
+   "icao": "GVSV",
+   "city": "Sao Pedro",
+   "country": "CV",
+   "lat": 16.8332,
+   "lon": -25.0553,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "W"
+  },
+  {
+   "iata": "ICN",
+   "icao": "RKSI",
+   "city": "Seoul",
+   "country": "KR",
+   "lat": 37.4691,
+   "lon": 126.451,
+   "region": "Interkontinental",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "PVG",
+   "icao": "ZSPD",
+   "city": "Shanghai",
+   "country": "CN",
+   "lat": 31.1434,
+   "lon": 121.805,
+   "region": "Interkontinental",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "SSH",
+   "icao": "HESH",
+   "city": "Sharm el-Sheikh",
+   "country": "EG",
+   "lat": 27.9773,
+   "lon": 34.395,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "SIN",
+   "icao": "WSSS",
+   "city": "Singapore",
+   "country": "SG",
+   "lat": 1.3502,
+   "lon": 103.994,
+   "region": "Interkontinental",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "TPA",
+   "icao": "KTPA",
+   "city": "Tampa",
+   "country": "US",
+   "lat": 27.9755,
+   "lon": -82.5332,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "TLV",
+   "icao": "LLBG",
+   "city": "Tel Aviv",
+   "country": "IL",
+   "lat": 32.0114,
+   "lon": 34.8867,
+   "region": "Interkontinental",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "NRT",
+   "icao": "RJAA",
+   "city": "Tokyo",
+   "country": "JP",
+   "lat": 35.7647,
+   "lon": 140.386,
+   "region": "Interkontinental",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "TUN",
+   "icao": "DTTA",
+   "city": "Tunis",
+   "country": "TN",
+   "lat": 36.851,
+   "lon": 10.2272,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "S"
+  },
+  {
+   "iata": "IAD",
+   "icao": "KIAD",
+   "city": "Washington",
+   "country": "US",
+   "lat": 38.9475,
+   "lon": -77.4599,
+   "region": "Interkontinental",
+   "airlines": [
+    "SWISS"
+   ],
+   "season": "Y"
+  },
+  {
+   "iata": "WDH",
+   "icao": "FYWH",
+   "city": "Windhoek",
+   "country": "NA",
+   "lat": -22.4799,
+   "lon": 17.4709,
+   "region": "Interkontinental",
+   "airlines": [
+    "Edelweiss"
+   ],
+   "season": "S"
+  }
+ ]
+}
